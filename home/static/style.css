@@ -1,0 +1,11 @@
+p {
+  width: 200px;
+  padding: 10px;
+  margin: 20px auto;
+  border: 1px solid black;
+}
+#date_time {
+  color: blue;
+  text-align: center;
+  font-size: 30px;
+}
